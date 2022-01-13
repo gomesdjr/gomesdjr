@@ -1,11 +1,11 @@
 ## Olá 👋
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesdjr/)](https://www.linkedin.com/in/gomesdjr/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gomesdjg/)](https://www.linkedin.com/in/gomesdjr/)
 
-Meu nome é Diego e sou aficionado por desenvolvimento e tecnologia.
+Meu nome é Diego e sou aficionado por tecnologia.
 
 * :computer: Linguagens: Html, CSS, Python e em busca de aprender muito mais!
 * :wrench: Ferramentas: Visual Studio Code, GitHub, Photoshop, Indesign.
-* :mortar_board: Acadêmico: Cursando faculdade de Análise e desenvolvimento de sistemas e Formação de front-end na Alura.
+* :mortar_board: Acadêmico: Formado em arquitetura e urbanismo, cursando técinico em lógistica e me aprofundando em excel.
 <!--
 **gomesdjr/gomesdjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
